@@ -2,4 +2,4 @@
 
 'ques.py': This is simple command-line interface
 #
-GUI Branch: this branch has program with TKinter-based Graphical User Interface
+'ques_gui.py': This is simple graphical user interface
